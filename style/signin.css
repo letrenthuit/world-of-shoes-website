@@ -1,0 +1,113 @@
+.project{
+    width:425px;
+    height:395px;
+    background-color:#4A5C6A;
+    border-radius:6px;
+    margin-top:90px;
+    margin-left:520px;
+    object-position: center;
+
+ }
+ .input{
+    margin-top:0;
+    outline:none;
+    margin-left:10px;
+    padding-top:8px;
+    padding-bottom:8px;
+    padding-left:12px;
+    padding-right:120px;
+    border-radius: 8px;
+    border-color: transparent;
+    font-family:Mukta,Arial;
+    font-weight: 600;
+ }
+.input2{
+    display: inline-block;
+    outline:none;
+    margin-top:25px;
+    margin-left:10px;
+    padding-top:8px;
+    padding-bottom:8px;
+    padding-left:12px;
+    padding-right:120px;
+    border-radius: 8px;
+    border-color: transparent;
+    font-family:Mukta,Arial;
+    font-weight: 600;
+    
+
+}
+.submit{
+    margin-top: 15px;
+    margin-left:70px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 124px;
+    padding-right:138px;
+    background-color:#667c8f;
+    border-style: solid;
+    border-color: #667c8f;
+    color:white;
+    border-radius:7px;
+    cursor: pointer;
+    font-family:'Mukta',Arial;
+    font-weight:500;
+}
+.submit:hover{
+    background-color: #3a4550;
+    border-color: #ccd0cc;
+    
+}
+.submit:active{
+    background-color: #282f36;
+}
+.label{
+color: white;
+margin-right: 0;
+margin-left: 15px;
+}
+.icon1{
+vertical-align:middle;
+width: 40px;
+height:40px;
+margin-right:0px;
+}
+.icon2{
+vertical-align: bottom;
+width: 40px;
+height: 40px;
+margin-top:5px ;
+margin-left: 16px;
+
+}
+.signu{
+background-color: transparent;
+margin-top: 30px;
+margin-left: 213px;
+border:none;
+color: white;
+font-family:'Mukta',Arial; 
+}
+
+.p{
+font-family:'Mukta',Arial; 
+color: white;
+font-size: 14px;
+font-weight: 500;
+margin-left: 159px;
+margin-bottom: 80px;
+}
+.first{
+margin-left: 135px;
+color: white;
+margin-top:0px;
+margin-bottom: 0;
+font-family:Mukta,sans-serif ;
+font-size: 12px;
+}
+@media (min-width: 768px) {
+    /* Styles for desktop screens */
+  }
+  @media (max-width: 767px) {
+    /* Styles for mobile screens */
+  }

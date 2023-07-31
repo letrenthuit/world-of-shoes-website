@@ -1,0 +1,98 @@
+label{color:white;
+    font-weight:500;
+   }
+.thedivv{ 
+  position:absolute;
+  top:15%;
+  left:30%;
+  background-color:#4A5C6A;
+  width:430px;
+  height:410px;
+  }
+
+.division1{
+  margin-top:15px;
+
+
+  }
+.division2{
+  margin-top:20px;
+
+  }
+.division3{
+  margin-top:20px;
+ 
+  }
+.nameinput{
+ width:364px;
+ padding-top:10px;
+ padding-bottom:10px;
+ border-radius:4px;
+ border:none;
+ outline:transparent;
+}
+
+.second{
+ width:364px;
+ padding-top:10px;
+ padding-bottom:10px;
+ border-radius:4px;
+ border:none;
+ outline:transparent;
+}
+.third{ 
+ width:364px;
+ padding-top:10px;
+ padding-bottom:10px;
+ border-radius:4px;
+ border:none;
+ outline:transparent;
+}
+.thebutton{
+margin-top:20px;
+width:364px;
+padding-top:10px;
+padding-bottom:10px;
+background-color:#667c8f;
+border-style: solid;
+border-color: #667c8f;
+color:white;
+border-radius:6px;
+cursor: pointer;
+font-weight:500;
+}
+.thebutton:hover{
+   background-color: #3a4550;
+   border-color: #ccd0cc;
+   
+}
+.thebutton:active{
+   background-color: #282f36;
+}
+.space{ 
+   margin-left:30px;
+   margin-top:0;
+   
+}
+
+.forgrid{
+display:grid;
+grid-template-columns: 20px 1fr 1fr;
+margin-bottom:0;
+
+
+}
+.secondb{
+margin-left: 235px;
+border: transparent;
+margin-top: 20px;
+color: white;
+
+background-color: transparent;
+}
+@media (min-width: 768px) {
+  /* Styles for desktop screens */
+}
+@media (max-width: 767px) {
+  /* Styles for mobile screens */
+}

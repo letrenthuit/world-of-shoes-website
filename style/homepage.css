@@ -1,0 +1,124 @@
+
+   .div1{
+       
+      
+       height: 380px;
+       width: 390px;
+       border:4px solid #8dc0e7;
+       background-color: transparent;
+       margin-left: 550px;
+       margin-top: 90px;
+        
+   }
+   .vst{
+       display: block;
+       background-color: transparent;
+       border-radius: 4px;
+       border-style: solid;
+       border-color:rgb(234, 235, 240);
+       margin-top: 25px;
+       margin-bottom: 35px;
+       margin-left: 100px;
+       padding-top:8px;
+       padding-bottom: 8px;
+       padding-left:15px ;
+       padding-right:15px;
+       color: white;
+       font-weight: 600;
+   
+       
+   }
+   .vst:hover{
+       background-color: #597d99;
+       cursor: pointer;
+   }
+   .vst:active{
+       background-color: #2a3c49;
+   }
+   .gm{
+       display: block;
+       background-color: transparent;
+       border-radius: 4px;
+       border-style: solid;
+       border-color:rgb(234, 235, 240);
+       margin-top: 25px;
+       margin-bottom: 35px;
+       margin-left: 78px;
+       padding-top:8px;
+       padding-bottom: 8px;
+       padding-left:35px ;
+       padding-right:35px;
+       color: white;
+       font-weight: 600;
+       
+       
+   }
+   .gm:hover{
+       background-color: #597d99;
+       cursor: pointer;
+   }
+   .gm:active{
+       background-color: #2a3c49;
+   }
+   .si{
+       display: block;
+       background-color: transparent;
+       border-radius: 4px;
+       border-style: solid;
+       border-color:rgb(234, 235, 240);
+       margin-top: 25px;
+       margin-bottom: 35px;
+       margin-left: 130px;
+       padding-top:8px;
+       padding-bottom: 8px;
+       padding-left:25px ;
+       padding-right:25px;
+       color: white;
+       font-weight: 600;
+       
+       
+   }
+   .si:hover{
+       background-color: #597d99;
+       cursor: pointer;
+   }
+   .si:active{
+       background-color: #2a3c49;
+   }
+   .sp{
+       display: block;
+       background-color: transparent;
+       border-radius: 4px;
+       border-style: solid;
+       border-color:rgb(234, 235, 240);
+       margin-top: 25px;
+       margin-bottom: 35px;
+       margin-left: 114px;
+       padding-top:8px;
+       padding-bottom: 8px;
+       padding-left:40px ;
+       padding-right:40px;
+       color: white;
+       font-weight: 600;
+       
+       
+   }
+   .sp:hover{
+       background-color: #597d99;
+       cursor: pointer;
+   }
+   .sp:active{
+       background-color: #2a3c49;
+   }
+   .wtc{
+       margin-top: 20px;
+   }
+   .nil{
+       color: transparent;
+   }
+   @media (min-width: 768px) {
+    /* Styles for desktop screens */
+  }
+  @media (max-width: 767px) {
+    /* Styles for mobile screens */
+  }
